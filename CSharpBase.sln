@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hello", "Hello\Hello.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ifelse", "Ifelse\Ifelse.csproj", "{F985FD22-F5B1-4B93-91FB-30DF0BC9DE58}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputOutput", "InputOutput\InputOutput.csproj", "{00209B47-3D0A-4846-ACF8-9E20260AA9F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InOutput", "InOutput\InOutput.csproj", "{00209B47-3D0A-4846-ACF8-9E20260AA9F6}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For99Loop", "For99Loop\For99Loop.csproj", "{30476055-756A-47B1-BE26-E27089C6A7B2}"
 EndProject
