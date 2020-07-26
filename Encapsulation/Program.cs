@@ -1,6 +1,6 @@
 ﻿//封装示例
 using System;
-//aa
+
 namespace Encapsulation
 {
     class Rectangle
