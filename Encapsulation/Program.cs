@@ -1,8 +1,8 @@
-﻿//封装示例
-using System;
+﻿using System;
 
 namespace Encapsulation
 {
+    //封装示例
     class Rectangle
     {
         //成员变量
@@ -13,6 +13,7 @@ namespace Encapsulation
         {
             return length * width;
         }
+
         public void Display()
         {
             Console.WriteLine("长度： {0}", length);
