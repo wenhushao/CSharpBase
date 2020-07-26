@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace InputOutput
+namespace InOutput
 {
     class Program
     {
@@ -13,7 +13,6 @@ namespace InputOutput
             Console.WriteLine("Input String str:");
             string str=Console.ReadLine();
             Console.WriteLine("Your Input Stirng str:" + str);
-
         }
     }
 }

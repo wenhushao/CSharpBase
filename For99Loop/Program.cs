@@ -2,6 +2,7 @@
 
 namespace For99Loop
 {
+    //main
     class Program
     {
         static void Main(string[] args)
